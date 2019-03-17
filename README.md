@@ -1,11 +1,17 @@
 # Ecommerce website - Shopping website
 
-A website to demonstrate various Node.js concepts like:
+### A website to demonstrate various Node.js concepts like:
 * Routing
 * Model View Controllers
 * Database 
 * Authentication
 * Deployment
+
+### Various node packages used:
+* Express
+* Body-parser
+* ejs
+
 
 ### To run the application:
 
